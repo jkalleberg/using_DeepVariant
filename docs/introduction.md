@@ -49,9 +49,21 @@ Everyting within `VCF_INTRO_DATA` will be copied from my own directories. You sh
 We'll use this GitHub repository to share code and trouble shoot any issues you may encounter. And, it makes an excellent record of your learning steps!
 
 Within your `WORKING` directory, clone the GitHub repository from GitHub --> HellBender with:
+
 ```
 🦎 [jakth2@hellbender-login.mgmt.hellbender] pwd
 /mnt/pixstor/schnabelr-ccgi-drii/WORKING/rpw3mx
 🦎 [jakth2@hellbender-login.mgmt.hellbender] git@github.com:jkalleberg/using_DeepVariant.git
+```
+
+```Expected Output
+Cloning into 'using_DeepVariant'...
+
+remote: Enumerating objects: 26, done.
+remote: Counting objects: 100% (26/26), done.
+remote: Compressing objects: 100% (16/16), done.
+remote: Total 26 (delta 10), reused 18 (delta 5), pack-reused 0
+Receiving objects: 100% (26/26), 17.28 KiB | 2.88 MiB/s, done.
+Resolving deltas: 100% (10/10), done.
 ```
 
