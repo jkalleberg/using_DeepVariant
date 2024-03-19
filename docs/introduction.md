@@ -14,13 +14,11 @@ ssh <enter_your_pawprint_here>@hellbender-login.rnet.missouri.edu
 
 As a student in the University of Missouri's Animal Genomics (UMAG) group, you need to understand some convetions we use. On the computing cluster, each person has a directory under a `WORKING` directory. They are named using your MU paw print ID. 
 
----
 
-Your directory on Hellbender is here:
+#### Your directory on Hellbender is here:
 
 - Rebekah `/mnt/pixstor/schnabelr-ccgi-drii/WORKING/rpw3mx/`
 
----
 
 The directory above should be empty except for two sub-directories created by me (Jenna, Post-doc). One is for `inputs` the second is for `outputs`. Neither of these directories is for executable code, which should be kept in a separate GitHub repository.  
 
