@@ -16,8 +16,9 @@ As a student in the University of Missouri's Animal Genomics (UMAG) group, you n
 
 ---
 
-Rebekah, you have a working directory on Hellbender here: 
-`/mnt/pixstor/schnabelr-ccgi-drii/WORKING/rpw3mx/`
+Your directory on Hellbender is here:
+
+- Rebekah `/mnt/pixstor/schnabelr-ccgi-drii/WORKING/rpw3mx/`
 
 ---
 
