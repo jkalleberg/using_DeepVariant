@@ -67,3 +67,23 @@ Receiving objects: 100% (26/26), 17.28 KiB | 2.88 MiB/s, done.
 Resolving deltas: 100% (10/10), done.
 ```
 
+
+    * Title of the project
+    * Abstract of the research (what is the research question being asked)
+    * Source of the data (Please try to find the original source of the data)
+        * Name
+        * Short Description
+        * URL of the website
+        * URL of the data to download
+    * Brief overview of the workflow
+        * I use this software, I transform the data this way… everything that would go into the paper’s methods
+        * Write as you code: explain what you are trying to accomplish with this project as you are coding
+        * Takes longer, but you end up with a done project and a done paper 
+            * May end up with way more paper than needed, but much easier to cut
+    * Brief overview of the analysis (tools used) or study (scalability study, parameter sweep, sensitivity study etc.) and what you wish to accomplish
+
+    Complete Project
+* Data used should be at a 3 level or bench mark data set which is similar to the real data used for the research
+* You need to be able to verify that you got the right answer(s)
+* Computation provided should be at a 2 level — or text book example, data doesn’t have to make sense but now you can play with the model parameters and see how the solution changes
+* Tim will just git clone —> setup —> run and if this doesn’t work you are in trouble!
