@@ -1,3 +1,6 @@
+# bcftools stats files
+chrom_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
